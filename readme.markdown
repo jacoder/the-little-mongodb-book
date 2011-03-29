@@ -1,5 +1,5 @@
-## About ##
-The Little MongoDB Book is a free book introducing MongoDB.
+## 关于 ##
+The Little MongoDB Book 是一本免费的介绍MongoDB的书籍。
 
 The book was written shortly after the creation of the [MongoDB interactive tutorial](http://mongly.com). As such, the two can be seen as complementary.
 
